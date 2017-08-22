@@ -1,0 +1,26 @@
+html>
+<head>
+    <title>article two|nareshvk999</title>
+    <meta name="viewport" content="width-device-width, initial-scale=1" />
+</head>
+<body>
+    <div>
+     <a href="/">home<</a>    
+    </div>
+    <hr/>
+    <h2>
+        article two
+    </h2>
+    <div>
+        aug 20 2017
+    </div>
+    <div>
+      <p>
+          this is my first content for article two..
+          </p>
+          <p>
+              this is my first content for article two..
+          </p>
+    </div>
+</body>
+</html>
