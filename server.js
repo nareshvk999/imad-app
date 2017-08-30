@@ -20,6 +20,7 @@ var articles = {};
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
+
 var pool = new pool(config);
 app.get('/test-db', function(req, res) {
     // make a select request
